@@ -1,2 +1,2 @@
 # Python-for-Machine-Learning
-This repo are related the Global Ai Hub DL bootcamp and certificate.
+This repo are related the Global Ai Hub DL bootcamp.
